@@ -11,13 +11,13 @@ this project is an example you can integrate the fastboot.cs into your own proje
 examples:
 
 
-```var fastboot = new Fastboot();
+``` var fastboot = new Fastboot();
     fastboot.Connect();
     Console.WriteLine("Connected.");
     Console.WriteLine("Executing: fastboot reboot-fastboot"); 
     fastboot.Reboot(Fastboot.RebootOptions.Fastbootd); // this reboots your phone into the userspace fastboot```
 
-```var fastboot = new Fastboot();
+``` var fastboot = new Fastboot();
         fastboot.Connect();
         Console.WriteLine("Connected.");
         Console.WriteLine("Executing: fastboot reboot-recovery"); // reboots your phone into recovery mode
