@@ -29,7 +29,7 @@ examples:
         Console.WriteLine("Connected.");
         fastboot.SendOemCommand("unlock"); // this sends the oem command unlock to the phone to then prompt if the bootloader should be unlocked`
         
-    ` var fastboot = new Fastboot();
+ ` var fastboot = new Fastboot();
         fastboot.Connect();
         Console.WriteLine("Connected.");
         fastboot.Boot("//temp/boot.img"); // this sends the boot.img and boots it`
