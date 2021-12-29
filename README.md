@@ -16,27 +16,21 @@ var fastboot = new Fastboot();
     Console.WriteLine("Connected.");
     Console.WriteLine("Executing: fastboot reboot-fastboot"); 
     fastboot.Reboot(Fastboot.RebootOptions.Fastbootd); // this reboots your phone into the userspace fastboot```
-    ```
-    var fastboot = new Fastboot();
+    ``` var fastboot = new Fastboot();
         fastboot.Connect();
         Console.WriteLine("Connected.");
         Console.WriteLine("Executing: fastboot reboot-recovery"); // reboots your phone into recovery mode
         fastboot.Reboot(Fastboot.RebootOptions.Recovery);
-        Console.WriteLine("Your Device Should Be In Recovery Now.");
-  ```
+        Console.WriteLine("Your Device Should Be In Recovery Now.");```
   
-  
-  ``` 
   var fastboot = new Fastboot();
         fastboot.Connect();
         Console.WriteLine("Connected.");
-        fastboot.SendOemCommand("unlock"); // this sends the oem command unlock to the phone to then prompt if the bootloader should be unlock
-        ```
+        fastboot.SendOemCommand("unlock"); // this sends the oem command unlock to the phone to then prompt if the bootloader should be unlocked```
         
-   ``` 
-  var fastboot = new Fastboot();
+   ```  var fastboot = new Fastboot();
         fastboot.Connect();
         Console.WriteLine("Connected.");
-        fastboot.Boot("//temp/boot.img"); // this sends the boot.img and boots it
-        ```
+        fastboot.Boot("//temp/boot.img"); // this sends the boot.img and boots it```
+        
         
