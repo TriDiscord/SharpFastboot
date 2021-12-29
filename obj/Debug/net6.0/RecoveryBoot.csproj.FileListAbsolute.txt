@@ -1,0 +1,14 @@
+C:\Users\warlo\source\repos\RecoveryBoot\RecoveryBoot\bin\Debug\net6.0\RecoveryBoot.exe
+C:\Users\warlo\source\repos\RecoveryBoot\RecoveryBoot\bin\Debug\net6.0\RecoveryBoot.deps.json
+C:\Users\warlo\source\repos\RecoveryBoot\RecoveryBoot\bin\Debug\net6.0\RecoveryBoot.runtimeconfig.json
+C:\Users\warlo\source\repos\RecoveryBoot\RecoveryBoot\bin\Debug\net6.0\RecoveryBoot.dll
+C:\Users\warlo\source\repos\RecoveryBoot\RecoveryBoot\bin\Debug\net6.0\ref\RecoveryBoot.dll
+C:\Users\warlo\source\repos\RecoveryBoot\RecoveryBoot\obj\Debug\net6.0\RecoveryBoot.csproj.AssemblyReference.cache
+C:\Users\warlo\source\repos\RecoveryBoot\RecoveryBoot\obj\Debug\net6.0\RecoveryBoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warlo\source\repos\RecoveryBoot\RecoveryBoot\obj\Debug\net6.0\RecoveryBoot.AssemblyInfoInputs.cache
+C:\Users\warlo\source\repos\RecoveryBoot\RecoveryBoot\obj\Debug\net6.0\RecoveryBoot.AssemblyInfo.cs
+C:\Users\warlo\source\repos\RecoveryBoot\RecoveryBoot\obj\Debug\net6.0\RecoveryBoot.csproj.CoreCompileInputs.cache
+C:\Users\warlo\source\repos\RecoveryBoot\RecoveryBoot\obj\Debug\net6.0\RecoveryBoot.dll
+C:\Users\warlo\source\repos\RecoveryBoot\RecoveryBoot\obj\Debug\net6.0\ref\RecoveryBoot.dll
+C:\Users\warlo\source\repos\RecoveryBoot\RecoveryBoot\obj\Debug\net6.0\RecoveryBoot.genruntimeconfig.cache
+C:\Users\warlo\source\repos\RecoveryBoot\RecoveryBoot\obj\Debug\net6.0\RecoveryBoot.csproj.Fody.CopyLocal.cache

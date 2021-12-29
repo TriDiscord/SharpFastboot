@@ -1,0 +1,14 @@
+C:\Users\warlo\source\repos\RecoveryBoot\RecoveryBoot\bin\release\net6.0\linux-x64\RecoveryBoot
+C:\Users\warlo\source\repos\RecoveryBoot\RecoveryBoot\bin\release\net6.0\linux-x64\RecoveryBoot.deps.json
+C:\Users\warlo\source\repos\RecoveryBoot\RecoveryBoot\bin\release\net6.0\linux-x64\RecoveryBoot.runtimeconfig.json
+C:\Users\warlo\source\repos\RecoveryBoot\RecoveryBoot\bin\release\net6.0\linux-x64\RecoveryBoot.dll
+C:\Users\warlo\source\repos\RecoveryBoot\RecoveryBoot\bin\release\net6.0\linux-x64\ref\RecoveryBoot.dll
+C:\Users\warlo\source\repos\RecoveryBoot\RecoveryBoot\obj\release\net6.0\linux-x64\RecoveryBoot.csproj.AssemblyReference.cache
+C:\Users\warlo\source\repos\RecoveryBoot\RecoveryBoot\obj\release\net6.0\linux-x64\RecoveryBoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warlo\source\repos\RecoveryBoot\RecoveryBoot\obj\release\net6.0\linux-x64\RecoveryBoot.AssemblyInfoInputs.cache
+C:\Users\warlo\source\repos\RecoveryBoot\RecoveryBoot\obj\release\net6.0\linux-x64\RecoveryBoot.AssemblyInfo.cs
+C:\Users\warlo\source\repos\RecoveryBoot\RecoveryBoot\obj\release\net6.0\linux-x64\RecoveryBoot.csproj.CoreCompileInputs.cache
+C:\Users\warlo\source\repos\RecoveryBoot\RecoveryBoot\obj\release\net6.0\linux-x64\RecoveryBoot.csproj.Fody.CopyLocal.cache
+C:\Users\warlo\source\repos\RecoveryBoot\RecoveryBoot\obj\release\net6.0\linux-x64\RecoveryBoot.dll
+C:\Users\warlo\source\repos\RecoveryBoot\RecoveryBoot\obj\release\net6.0\linux-x64\ref\RecoveryBoot.dll
+C:\Users\warlo\source\repos\RecoveryBoot\RecoveryBoot\obj\release\net6.0\linux-x64\RecoveryBoot.genruntimeconfig.cache
