@@ -20,7 +20,8 @@ fastboot.Connect();
 Console.WriteLine("Connected.");
 Console.WriteLine("Executing: fastboot reboot-recovery"); // reboots your phone into recovery mode
 fastboot.Reboot(Fastboot.RebootOptions.Recovery);
-Console.WriteLine("Your Device Should Be In Recovery Now.");`
+Console.WriteLine("Your device should be in Recovery Mode.");
+```
   
 ```csharp
 var fastboot = new Fastboot();
