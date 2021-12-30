@@ -34,4 +34,7 @@ examples:
         Console.WriteLine("Connected.");
         fastboot.Boot("//temp/boot.img"); // this sends the boot.img and boots it`
         
-        
+ ` var fastboot = new Fastboot();
+        fastboot.Connect();
+        Console.WriteLine("Connected.");
+        fastboot.ResumeBoot(); // this is the equivalent of fastboot continue`
